@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KFxuXVkXEp8=",
+  "success": true,
+  "projectFilePath": "C:\\NETInAction\\3API\\AsciiArtSvc\\AsciiArtSvc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mazza\\.nuget\\packages\\figgle\\0.5.1\\figgle.0.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

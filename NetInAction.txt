@@ -1,0 +1,4 @@
+dotnet new web --name AsciiArtSvc
+
+dotnet add package Figgle
+ 
